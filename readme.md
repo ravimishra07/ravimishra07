@@ -1,76 +1,75 @@
-# Hey — I’m Ravi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
+<h1 align="center">Hey, I’m Ravi 👋</h1>
 
-> Android Dev ⚡ | System Builder 🧠 | Survival Engineer | Project SAM Architect
+<p align="center">
+  Android Dev | AI Systems Engineer | Utility App Builder
+</p>
 
----
-
-## 🔍 What I Really Do
-
-I build **emotionally aware, AI-native systems** that survive real chaos.
-
-- 5+ years in Android (Kotlin, Jetpack, Compose, Firebase)
-- Architect of **Project SAM** — a second-brain logger with memory, patterns, and reset protocols
-- Created tools that track **mood, stability, spending, and crash prediction**
-- Built local-first apps with Gemini Nano, SQLite, FAISS, and RoomDB
-- Mix execution speed with brutal clarity — no fluff, just systems that work
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravimishra2270&label=Profile+Views" alt="views"/> 
+  <img src="https://img.shields.io/github/followers/ravimishra2270?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/ravimishra2270?style=social" />
+</p>
 
 ---
 
-## 🔧 Currently Working On
+## ⚙️ Current Stack
 
-- **SAM v2**: A self-tracking engine with insights, expenses, and emotional data as first-class citizens
-- **Code With Utility**: Weekly drop of *real code, real use*, no gimmicks ([#CodeWithUtility](https://twitter.com/ravimishra07))
-- **YouTube AI Pipelines**: Faceless script + voiceover generation (CreatorVoice)
-- **Tutor App**: Real-world SaaS for offline tutors — Firebase, Compose, realtime logs
-
----
-
-## 🧠 Stack (By Heart, Not Hype)
-
-- **Mobile**: Kotlin, Jetpack Compose, Coroutines, LiveData, SwiftUI
-- **Data Layer**: RoomDB, Firebase Firestore, SQLite
-- **AI Systems**: SentenceTransformers + FAISS, Gemini Nano (on-device), local LLMs
-- **Dev Utilities**: GitHub automation, CLI journaling, structured JSONL logs
+| Domain            | Tools & Frameworks                                   |
+|------------------|------------------------------------------------------|
+| Mobile Dev       | Kotlin, Jetpack Compose, Swift, KMM, Android Studio |
+| AI Systems       | Gemini Nano, SentenceTransformers, FAISS, OpenVoice |
+| Infra & Backend  | Firebase, RoomDB, SQLite, GitHub Actions            |
+| Frontend Tools   | Gradio, HTML/CSS (minimal), Webhooks                 |
 
 ---
 
-## 🧵 Writing & Systems Thinking
+## 🧠 What I’m Building Now
 
-- [Kotlin: Power of Extension Functions](https://ravimishra1017.medium.com/kotlin-power-of-extension-functions-20f1bba1e817)
-- [Android Video Trim — Mp4Parser vs FFmpeg](https://ravimishra1017.medium.com/video-trim-in-android-mp4parser-vs-ffmpeg-6a0ded442996)
-- [Codable in Swift — a Better Way to Parse](https://medium.com/swiftcommmunity/codables-a-better-way-parse-data-in-swift-e08015f4ee4e)
-
-> Medium = raw drops of my brain. Not SEO bait.  
-> [Read all](https://ravimishra1017.medium.com/)
-
----
-
-## 🛠 Projects That Reflect Me
-
-- [**Project SAM**](https://github.com/ravimishra2270) — memory, emotion, and execution tracker built from bipolar survival patterns
-- [**CreatorVoice**](https://creatorvoice.in) — script + AI voiceover system (XTTS, Gradio, RunPod)
-- [**Expense Tracker v1** (WIP)] — SMS-parsing + local insights powered by Gemini Nano
-- [**Tutor App** (Live Build)] — Firebase-backed progress tracker for tuition businesses
+| Project        | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| 🔹 **MiniLLM** | On-device personal AI assistant — search, recall, and insight in 3MB       |
+| 🔹 **AnimateX**| Offline face animation engine for Shorts — powered by XTTS + SadTalker     |
+| 🔹 **Expense AI** | SMS-driven tracker + Nano insight engine — no manual input required       |
+| 🔹 **Tutor App** | Real-time student tracking platform — Firebase synced, low-friction UI    |
 
 ---
 
-## 🤖 Not Just Code — Systems
+## 🧾 Selected Articles
 
-I don't build apps.  
-I build **mental prosthetics** — tools that catch you when emotion fails.  
-Code is just the skin. The soul is survival.
+- 📎 [Codable in Swift: Data Parsing Simplified](https://medium.com/swiftcommmunity/codables-a-better-way-parse-data-in-swift-e08015f4ee4e)
+- 📎 [FFmpeg vs Mp4Parser – Video Trim Benchmark](https://ravimishra1017.medium.com/video-trim-in-android-mp4parser-vs-ffmpeg-6a0ded442996)
+- 📎 [Kotlin Extension Functions – Clean Code Superpower](https://ravimishra1017.medium.com/kotlin-power-of-extension-functions-20f1bba1e817)
 
----
-
-## 📡 Find Me
-
-- 🐦 [Twitter](https://twitter.com/ravimishra07)  
-- ✍ [Medium](https://ravimishra1017.medium.com/)  
-- 📎 [Linktree](https://linktr.ee/ravimishra07)  
-- 🌐 [Portfolio](https://ravimishra2270.github.io)
+🗃 [All Blogs →](https://ravimishra1017.medium.com/)
 
 ---
 
-> Everything here is real.  
-> No performance. No polish. Just proof of work.
+## 🧪 Live Experiments
 
+- Gemini Nano as embedded local insight engine (offline prompt parsing)
+- Realtime SMS → Action logging system with user intent tagging
+- XTTS voice cloning with customized output styles
+- Prompt Pack: GPT-generated ITR filing, government form assistance, etc.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravimishra2270&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravimishra2270&theme=dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔗 Connect
+
+- 🐦 Twitter → [@ravimishra07](https://twitter.com/ravimishra07)
+- 📎 Linktree → [linktr.ee/ravimishra07](https://linktr.ee/ravimishra07)
+- 🌐 Portfolio → [ravimishra2270.github.io](https://ravimishra2270.github.io)
+
+---
+
+<p align="center">
+  <i>⚡ Building apps that think. Quietly. Locally. For real use.</i>
+</p>
